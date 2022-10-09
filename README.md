@@ -2,8 +2,9 @@
 About me, Chinedu Osmond Anyasor
 
 
-I am a [**Software Test (QA) Engineer**](https://linkedin.com/in/chinedu-anyasor-830569236):technologist:- Manual and Automation Test Professional in the Tech Industry; **Civil Engineer**:construction_worker_man:(Project Management) in the Construction Industry:building_construction:.
+Chinedu is a [**Software Test (QA) Engineer**](https://linkedin.com/in/chinedu-anyasor-830569236):technologist:- Manual and Automation Test Professional in the Tech Industry; **Civil Engineer**:construction_worker_man:(Project Management) in the Construction Industry:building_construction:.
 
+Chinedu creates testing solutions by using manual testing to uncover the highest-impact issues; and implementing automation tests that improve quality, impact, and return on investment; delivering high- quality software on time. I capture bugs and document every defeat for faster resolution, hereby ensuring quality, and speeding up delivery.
 
 🤓 I am currently upskilling my career in Tech.
 
@@ -23,4 +24,4 @@ I am a [**Software Test (QA) Engineer**](https://linkedin.com/in/chinedu-anyasor
 ⚡ Fun fact: I love to **envision**(about so many things-the maturity:deciduous_tree: from the beginning:seedling:, travelling to countries:earth_americas: I have never been)😂
 
 
-Aside hunting of bugs:lady_beetle:, I enjoy Graphic Design(on my Hashnode blog and other engineering blogs), watching football:soccer:, playing chess, and 📖learning new things.
+Aside hunting of bugs:lady_beetle:, I enjoy Graphic Design(beautiful and eye-catching designs), watching football:soccer:, playing chess, and 📖learning new things.
