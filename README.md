@@ -2,7 +2,7 @@
 About me, Chinedu Osmond Anyasor
 
 
-I am a **Software Test (QA) Engineer**:technologist:- Manual and Automation Test Professional in the Tech Industry, **Civil Engineer**:construction_worker_man:(Project Management) in the Construction Industry:building_construction:.
+I am a **Software Test (QA) Engineer**:technologist:- Manual and Automation Test Professional in the Tech Industry; **Civil Engineer**:construction_worker_man:(Project Management) in the Construction Industry:building_construction:.
 
 
 🤓 I am currently upskilling my career.
